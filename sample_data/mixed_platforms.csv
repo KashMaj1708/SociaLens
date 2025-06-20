@@ -1,0 +1,11 @@
+platform,post_id,raw_text,timestamp,user_id,media_type,media_url,like_count,comment_count,sentiment
+twitter,tweet_101,"Just discovered this amazing coffee shop! The latte art is incredible and the atmosphere is perfect for working. #coffee #work #lifestyle","2024-01-15T09:00:00Z",coffee_lover,image,coffee_shop.jpg,156,23,positive
+instagram,ig_101,"New workout challenge started today! 30 days of fitness ahead. 💪 #fitness #challenge #motivation","2024-01-15T06:30:00Z",fitness_challenger,image,workout_start.jpg,892,67,positive
+facebook,fb_101,"This new restaurant is overpriced and the food is mediocre at best. Not worth the money.","2024-01-15T20:30:00Z",dining_critic,,,45,89,negative
+twitter,tweet_102,"Beautiful day for a hike! The views from the top were absolutely breathtaking. #hiking #nature #outdoors","2024-01-15T15:00:00Z",nature_hiker,image,hike_views.jpg,234,34,positive
+instagram,ig_102,"Studio session today was amazing! New track is coming together perfectly. 🎵 #music #studio #recording","2024-01-15T14:00:00Z",music_creator,image,studio_work.jpg,567,45,positive
+facebook,fb_102,"Traffic was horrible today. Took 2 hours to get home. This city needs better infrastructure.","2024-01-15T18:00:00Z",commuter_angry,,,67,123,negative
+twitter,tweet_103,"Just finished reading an incredible book! Highly recommend 'The Psychology of Money'. #books #finance #reading","2024-01-15T22:00:00Z",book_reader,image,book_cover.jpg,89,12,positive
+instagram,ig_103,"Travel planning for Europe! Can't wait to explore Paris, Rome, and Barcelona. 🇪🇺 #travel #europe #adventure","2024-01-15T11:00:00Z",travel_planner,image,europe_map.jpg,1234,156,positive
+facebook,fb_103,"Lost my phone today. Feeling frustrated and worried about all the data I might have lost.","2024-01-15T17:00:00Z",phone_loser,,,34,78,negative
+twitter,tweet_104,"This new tech gadget is revolutionary! Game changer for productivity. #tech #productivity #innovation","2024-01-15T13:00:00Z",tech_enthusiast,image,tech_gadget.jpg,445,67,positive 

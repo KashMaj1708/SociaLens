@@ -1,0 +1,92 @@
+[
+  {
+    "platform": "instagram",
+    "post_id": "ig_001",
+    "raw_text": "Morning coffee and a good book 📚☕️ Perfect start to the day! #coffee #books #morning #lifestyle",
+    "timestamp": "2024-01-15T08:00:00Z",
+    "user_id": "lifestyle_blogger",
+    "media": [
+      {
+        "type": "image",
+        "url": "coffee_book.jpg",
+        "filename": "morning_coffee.png"
+      }
+    ],
+    "like_count": 1247,
+    "comment_count": 89,
+    "caption": "Morning coffee and a good book 📚☕️ Perfect start to the day! #coffee #books #morning #lifestyle",
+    "hashtags": ["coffee", "books", "morning", "lifestyle"]
+  },
+  {
+    "platform": "instagram",
+    "post_id": "ig_002",
+    "raw_text": "New workout routine is paying off! 💪 Feeling stronger every day. #fitness #gym #motivation #health",
+    "timestamp": "2024-01-15T07:30:00Z",
+    "user_id": "fitness_inspiration",
+    "media": [
+      {
+        "type": "image",
+        "url": "gym_workout.jpg",
+        "filename": "workout_progress.png"
+      }
+    ],
+    "like_count": 2156,
+    "comment_count": 156,
+    "caption": "New workout routine is paying off! 💪 Feeling stronger every day. #fitness #gym #motivation #health",
+    "hashtags": ["fitness", "gym", "motivation", "health"]
+  },
+  {
+    "platform": "instagram",
+    "post_id": "ig_003",
+    "raw_text": "Traveling to Japan next month! 🇯🇵 Can't wait to explore Tokyo and Kyoto. Any recommendations? #travel #japan #tokyo #kyoto",
+    "timestamp": "2024-01-15T12:00:00Z",
+    "user_id": "travel_adventures",
+    "media": [
+      {
+        "type": "image",
+        "url": "japan_planning.jpg",
+        "filename": "japan_travel_plan.png"
+      }
+    ],
+    "like_count": 892,
+    "comment_count": 234,
+    "caption": "Traveling to Japan next month! 🇯🇵 Can't wait to explore Tokyo and Kyoto. Any recommendations? #travel #japan #tokyo #kyoto",
+    "hashtags": ["travel", "japan", "tokyo", "kyoto"]
+  },
+  {
+    "platform": "instagram",
+    "post_id": "ig_004",
+    "raw_text": "This new restaurant is amazing! The food is incredible and the atmosphere is perfect. Highly recommend! 🍽️ #foodie #restaurant #dinner",
+    "timestamp": "2024-01-15T20:00:00Z",
+    "user_id": "food_explorer",
+    "media": [
+      {
+        "type": "image",
+        "url": "restaurant_food.jpg",
+        "filename": "amazing_dinner.png"
+      }
+    ],
+    "like_count": 567,
+    "comment_count": 45,
+    "caption": "This new restaurant is amazing! The food is incredible and the atmosphere is perfect. Highly recommend! 🍽️ #foodie #restaurant #dinner",
+    "hashtags": ["foodie", "restaurant", "dinner"]
+  },
+  {
+    "platform": "instagram",
+    "post_id": "ig_005",
+    "raw_text": "Working on some new music! 🎵 Studio session was productive today. New album coming soon! #music #studio #recording #artist",
+    "timestamp": "2024-01-15T23:00:00Z",
+    "user_id": "music_producer",
+    "media": [
+      {
+        "type": "image",
+        "url": "studio_session.jpg",
+        "filename": "music_studio.png"
+      }
+    ],
+    "like_count": 1234,
+    "comment_count": 178,
+    "caption": "Working on some new music! 🎵 Studio session was productive today. New album coming soon! #music #studio #recording #artist",
+    "hashtags": ["music", "studio", "recording", "artist"]
+  }
+] 

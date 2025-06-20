@@ -1,0 +1,66 @@
+[
+  {
+    "platform": "twitter",
+    "post_id": "123456789",
+    "raw_text": "Just had an amazing dinner at the new restaurant downtown! The food was incredible and the service was excellent. Highly recommend! 🍽️ #foodie #dinner",
+    "timestamp": "2024-01-15T19:30:00Z",
+    "user_id": "foodlover123",
+    "media": [
+      {
+        "type": "image",
+        "url": "sample_image1.jpg",
+        "filename": "dinner_photo.jpg"
+      }
+    ]
+  },
+  {
+    "platform": "instagram",
+    "post_id": "987654321",
+    "raw_text": "Beautiful sunset at the beach today. Nature is truly amazing! 🌅 #sunset #beach #nature",
+    "timestamp": "2024-01-15T18:45:00Z",
+    "user_id": "naturephotographer",
+    "media": [
+      {
+        "type": "image",
+        "url": "sample_image2.jpg",
+        "filename": "sunset.jpg"
+      }
+    ]
+  },
+  {
+    "platform": "twitter",
+    "post_id": "555666777",
+    "raw_text": "This new tech gadget is terrible. Waste of money and doesn't work properly. Very disappointed with the quality.",
+    "timestamp": "2024-01-15T16:20:00Z",
+    "user_id": "techreviewer",
+    "media": []
+  },
+  {
+    "platform": "facebook",
+    "post_id": "111222333",
+    "raw_text": "Great workout session at the gym today! Feeling energized and ready for the week ahead. 💪 #fitness #motivation",
+    "timestamp": "2024-01-15T07:15:00Z",
+    "user_id": "fitnessguru",
+    "media": [
+      {
+        "type": "image",
+        "url": "sample_image3.jpg",
+        "filename": "gym_workout.jpg"
+      }
+    ]
+  },
+  {
+    "platform": "instagram",
+    "post_id": "444555666",
+    "raw_text": "Traveling to Paris next week! So excited to explore the city of love. Any recommendations for must-visit places? ✈️ #travel #paris #vacation",
+    "timestamp": "2024-01-14T22:10:00Z",
+    "user_id": "travelbug",
+    "media": [
+      {
+        "type": "image",
+        "url": "sample_image4.jpg",
+        "filename": "paris_planning.jpg"
+      }
+    ]
+  }
+] 

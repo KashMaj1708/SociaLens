@@ -1,0 +1,115 @@
+[
+  {
+    "platform": "facebook",
+    "post_id": "fb_001",
+    "raw_text": "Just got promoted to Senior Developer! 🎉 After 5 years of hard work, it's finally paying off. Thanks to everyone who supported me along the way! #career #promotion #developer",
+    "timestamp": "2024-01-15T14:00:00Z",
+    "user_id": "john_developer",
+    "media": [
+      {
+        "type": "image",
+        "url": "promotion_celebration.jpg",
+        "filename": "career_milestone.png"
+      }
+    ],
+    "reactions": {
+      "like": 89,
+      "love": 45,
+      "wow": 12,
+      "haha": 3,
+      "sad": 0,
+      "angry": 0
+    },
+    "comment_count": 23,
+    "share_count": 8
+  },
+  {
+    "platform": "facebook",
+    "post_id": "fb_002",
+    "raw_text": "Lost my job today. Feeling devastated and worried about the future. Not sure what to do next. 😔",
+    "timestamp": "2024-01-15T16:30:00Z",
+    "user_id": "sarah_worker",
+    "media": [],
+    "reactions": {
+      "like": 5,
+      "love": 67,
+      "wow": 8,
+      "haha": 0,
+      "sad": 34,
+      "angry": 2
+    },
+    "comment_count": 45,
+    "share_count": 2
+  },
+  {
+    "platform": "facebook",
+    "post_id": "fb_003",
+    "raw_text": "Amazing concert last night! The energy was incredible and the music was perfect. Best night ever! 🎵🎤 #concert #music #live",
+    "timestamp": "2024-01-15T01:00:00Z",
+    "user_id": "concert_lover",
+    "media": [
+      {
+        "type": "image",
+        "url": "concert_photo.jpg",
+        "filename": "amazing_concert.png"
+      },
+      {
+        "type": "video",
+        "url": "concert_video.mp4",
+        "filename": "concert_highlights.mp4"
+      }
+    ],
+    "reactions": {
+      "like": 156,
+      "love": 234,
+      "wow": 45,
+      "haha": 12,
+      "sad": 0,
+      "angry": 0
+    },
+    "comment_count": 67,
+    "share_count": 23
+  },
+  {
+    "platform": "facebook",
+    "post_id": "fb_004",
+    "raw_text": "New recipe alert! 🍕 Homemade pizza with fresh ingredients. Turned out perfect! Recipe in comments. #cooking #pizza #homemade",
+    "timestamp": "2024-01-15T19:00:00Z",
+    "user_id": "home_chef",
+    "media": [
+      {
+        "type": "image",
+        "url": "homemade_pizza.jpg",
+        "filename": "perfect_pizza.png"
+      }
+    ],
+    "reactions": {
+      "like": 234,
+      "love": 189,
+      "wow": 45,
+      "haha": 12,
+      "sad": 0,
+      "angry": 0
+    },
+    "comment_count": 89,
+    "share_count": 34
+  },
+  {
+    "platform": "facebook",
+    "post_id": "fb_005",
+    "raw_text": "This new movie is absolutely terrible. Waste of money and time. Don't bother watching it. Very disappointed. 😤",
+    "timestamp": "2024-01-15T22:00:00Z",
+    "user_id": "movie_critic",
+    "media": [],
+    "reactions": {
+      "like": 12,
+      "love": 3,
+      "wow": 8,
+      "haha": 5,
+      "sad": 23,
+      "angry": 45
+    },
+    "comment_count": 67,
+    "share_count": 12
+  }
+] 

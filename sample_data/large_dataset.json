@@ -1,0 +1,452 @@
+[
+  {
+    "platform": "twitter",
+    "post_id": "large_001",
+    "raw_text": "AI is transforming every industry! The possibilities are endless. #AI #technology #future",
+    "timestamp": "2024-01-15T10:00:00Z",
+    "user_id": "tech_futurist",
+    "media": [],
+    "engagement_score": 0.85
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_002",
+    "raw_text": "Perfect morning routine: meditation, coffee, and planning the day ahead. #morning #routine #mindfulness",
+    "timestamp": "2024-01-15T07:00:00Z",
+    "user_id": "wellness_guru",
+    "media": [{"type": "image", "url": "morning_routine.jpg"}],
+    "engagement_score": 0.92
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_003",
+    "raw_text": "This new restaurant is absolutely terrible. Worst dining experience ever. Avoid at all costs!",
+    "timestamp": "2024-01-15T20:00:00Z",
+    "user_id": "food_critic_harsh",
+    "media": [],
+    "engagement_score": 0.45
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_004",
+    "raw_text": "Climate change is real and we need to act now. The science is clear. #climate #environment #action",
+    "timestamp": "2024-01-15T12:00:00Z",
+    "user_id": "climate_activist",
+    "media": [{"type": "image", "url": "climate_data.jpg"}],
+    "engagement_score": 0.78
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_005",
+    "raw_text": "New workout challenge: 100 push-ups a day for 30 days! Day 1 complete. 💪 #fitness #challenge #pushups",
+    "timestamp": "2024-01-15T06:00:00Z",
+    "user_id": "fitness_challenger",
+    "media": [{"type": "image", "url": "pushup_progress.jpg"}],
+    "engagement_score": 0.89
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_006",
+    "raw_text": "Just got my dream job! After months of interviews, it finally happened. So grateful! 🎉",
+    "timestamp": "2024-01-15T14:00:00Z",
+    "user_id": "job_seeker_success",
+    "media": [{"type": "image", "url": "job_offer.jpg"}],
+    "engagement_score": 0.95
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_007",
+    "raw_text": "This new movie is a masterpiece! Best film I've seen this year. #movies #cinema #art",
+    "timestamp": "2024-01-15T23:00:00Z",
+    "user_id": "film_critic",
+    "media": [],
+    "engagement_score": 0.82
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_008",
+    "raw_text": "Traveling to Bali next week! Can't wait to explore the beaches and temples. #travel #bali #adventure",
+    "timestamp": "2024-01-15T11:00:00Z",
+    "user_id": "travel_enthusiast",
+    "media": [{"type": "image", "url": "bali_planning.jpg"}],
+    "engagement_score": 0.91
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_009",
+    "raw_text": "Lost my wallet today. Feeling stressed and worried about all my cards and ID. 😔",
+    "timestamp": "2024-01-15T16:00:00Z",
+    "user_id": "unlucky_person",
+    "media": [],
+    "engagement_score": 0.34
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_010",
+    "raw_text": "New book recommendation: 'Atomic Habits' by James Clear. Life-changing insights on building good habits. #books #productivity",
+    "timestamp": "2024-01-15T21:00:00Z",
+    "user_id": "book_recommender",
+    "media": [{"type": "image", "url": "atomic_habits.jpg"}],
+    "engagement_score": 0.87
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_011",
+    "raw_text": "Homemade pasta night! From scratch and it turned out perfect. #cooking #pasta #homemade",
+    "timestamp": "2024-01-15T19:00:00Z",
+    "user_id": "home_chef_proud",
+    "media": [{"type": "image", "url": "homemade_pasta.jpg"}],
+    "engagement_score": 0.93
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_012",
+    "raw_text": "This new app is revolutionary! Completely changed how I organize my life. #productivity #apps #organization",
+    "timestamp": "2024-01-15T13:00:00Z",
+    "user_id": "productivity_expert",
+    "media": [{"type": "image", "url": "app_screenshot.jpg"}],
+    "engagement_score": 0.76
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_013",
+    "raw_text": "Traffic is absolutely horrible today. Been stuck for 3 hours. This city needs better public transport!",
+    "timestamp": "2024-01-15T17:00:00Z",
+    "user_id": "frustrated_commuter",
+    "media": [],
+    "engagement_score": 0.23
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_014",
+    "raw_text": "Sunset at the beach today was magical! Nature is truly amazing. #sunset #beach #nature #photography",
+    "timestamp": "2024-01-15T18:30:00Z",
+    "user_id": "nature_photographer",
+    "media": [{"type": "image", "url": "beach_sunset.jpg"}],
+    "engagement_score": 0.96
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_015",
+    "raw_text": "This new restaurant is amazing! Best food I've had in months. Highly recommend! #foodie #restaurant #dinner",
+    "timestamp": "2024-01-15T20:30:00Z",
+    "user_id": "food_lover",
+    "media": [{"type": "image", "url": "amazing_food.jpg"}],
+    "engagement_score": 0.88
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_016",
+    "raw_text": "New music album is incredible! Every track is a masterpiece. #music #album #artist",
+    "timestamp": "2024-01-15T22:00:00Z",
+    "user_id": "music_lover",
+    "media": [{"type": "image", "url": "album_cover.jpg"}],
+    "engagement_score": 0.79
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_017",
+    "raw_text": "Yoga session this morning was perfect. Feeling centered and ready for the day. #yoga #mindfulness #morning",
+    "timestamp": "2024-01-15T06:30:00Z",
+    "user_id": "yoga_practitioner",
+    "media": [{"type": "image", "url": "yoga_session.jpg"}],
+    "engagement_score": 0.84
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_018",
+    "raw_text": "This new gadget is terrible. Waste of money and doesn't work properly. Very disappointed.",
+    "timestamp": "2024-01-15T15:00:00Z",
+    "user_id": "tech_critic",
+    "media": [],
+    "engagement_score": 0.31
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_019",
+    "raw_text": "Coffee and coding session! Perfect combination for productivity. #coding #coffee #developer",
+    "timestamp": "2024-01-15T09:00:00Z",
+    "user_id": "developer_life",
+    "media": [{"type": "image", "url": "coffee_coding.jpg"}],
+    "engagement_score": 0.81
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_020",
+    "raw_text": "Hiking adventure today! The views were absolutely breathtaking. #hiking #adventure #nature #outdoors",
+    "timestamp": "2024-01-15T15:30:00Z",
+    "user_id": "adventure_seeker",
+    "media": [{"type": "image", "url": "hiking_views.jpg"}],
+    "engagement_score": 0.94
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_021",
+    "raw_text": "This new movie is a masterpiece! Best film I've seen this year. #movies #cinema #art",
+    "timestamp": "2024-01-15T23:30:00Z",
+    "user_id": "film_enthusiast",
+    "media": [{"type": "image", "url": "movie_poster.jpg"}],
+    "engagement_score": 0.86
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_022",
+    "raw_text": "New workout routine is paying off! Feeling stronger every day. #fitness #gym #motivation",
+    "timestamp": "2024-01-15T07:00:00Z",
+    "user_id": "fitness_progress",
+    "media": [{"type": "image", "url": "workout_progress.jpg"}],
+    "engagement_score": 0.89
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_023",
+    "raw_text": "This new restaurant is overpriced and the food is mediocre. Not worth the money at all.",
+    "timestamp": "2024-01-15T20:00:00Z",
+    "user_id": "dining_critic",
+    "media": [],
+    "engagement_score": 0.28
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_024",
+    "raw_text": "Beautiful day for a picnic! Perfect weather and great company. #picnic #outdoors #friends",
+    "timestamp": "2024-01-15T14:00:00Z",
+    "user_id": "picnic_lover",
+    "media": [{"type": "image", "url": "picnic_setup.jpg"}],
+    "engagement_score": 0.92
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_025",
+    "raw_text": "New book is incredible! Couldn't put it down. Highly recommend! #books #reading #recommendation",
+    "timestamp": "2024-01-15T21:30:00Z",
+    "user_id": "bookworm",
+    "media": [{"type": "image", "url": "book_cover.jpg"}],
+    "engagement_score": 0.83
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_026",
+    "raw_text": "Studio session today was amazing! New track is coming together perfectly. #music #studio #recording",
+    "timestamp": "2024-01-15T14:30:00Z",
+    "user_id": "music_producer",
+    "media": [{"type": "image", "url": "studio_work.jpg"}],
+    "engagement_score": 0.87
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_027",
+    "raw_text": "This new app is terrible. Crashes constantly and the interface is confusing. Very frustrating.",
+    "timestamp": "2024-01-15T12:00:00Z",
+    "user_id": "app_critic",
+    "media": [],
+    "engagement_score": 0.25
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_028",
+    "raw_text": "Travel planning for Japan! Can't wait to explore Tokyo and Kyoto. #travel #japan #adventure",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "user_id": "japan_traveler",
+    "media": [{"type": "image", "url": "japan_planning.jpg"}],
+    "engagement_score": 0.90
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_029",
+    "raw_text": "Morning meditation session was perfect. Feeling calm and focused. #meditation #mindfulness #morning",
+    "timestamp": "2024-01-15T06:00:00Z",
+    "user_id": "meditation_practitioner",
+    "media": [{"type": "image", "url": "meditation_space.jpg"}],
+    "engagement_score": 0.85
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_030",
+    "raw_text": "This new restaurant is amazing! Best food I've had in months. Highly recommend! #foodie #restaurant #dinner",
+    "timestamp": "2024-01-15T19:30:00Z",
+    "user_id": "food_enthusiast",
+    "media": [{"type": "image", "url": "amazing_dinner.jpg"}],
+    "engagement_score": 0.91
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_031",
+    "raw_text": "New tech gadget is revolutionary! Game changer for productivity. #tech #productivity #innovation",
+    "timestamp": "2024-01-15T13:30:00Z",
+    "user_id": "tech_innovator",
+    "media": [{"type": "image", "url": "tech_gadget.jpg"}],
+    "engagement_score": 0.78
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_032",
+    "raw_text": "This new movie is terrible. Waste of time and money. Don't bother watching it.",
+    "timestamp": "2024-01-15T22:30:00Z",
+    "user_id": "movie_critic_harsh",
+    "media": [],
+    "engagement_score": 0.22
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_033",
+    "raw_text": "Beautiful sunset at the beach today! Nature is truly amazing. #sunset #beach #nature",
+    "timestamp": "2024-01-15T18:00:00Z",
+    "user_id": "sunset_lover",
+    "media": [{"type": "image", "url": "beach_sunset.jpg"}],
+    "engagement_score": 0.95
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_034",
+    "raw_text": "New workout challenge started! 30 days of fitness ahead. #fitness #challenge #motivation",
+    "timestamp": "2024-01-15T07:30:00Z",
+    "user_id": "fitness_challenger_new",
+    "media": [{"type": "image", "url": "workout_start.jpg"}],
+    "engagement_score": 0.88
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_035",
+    "raw_text": "This new restaurant is overpriced and the food is mediocre. Not worth the money.",
+    "timestamp": "2024-01-15T20:30:00Z",
+    "user_id": "dining_critic_2",
+    "media": [],
+    "engagement_score": 0.29
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_036",
+    "raw_text": "Amazing concert last night! The energy was incredible. #concert #music #live",
+    "timestamp": "2024-01-15T01:30:00Z",
+    "user_id": "concert_goer",
+    "media": [{"type": "image", "url": "concert_photo.jpg"}],
+    "engagement_score": 0.93
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_037",
+    "raw_text": "New book recommendation: 'Deep Work' by Cal Newport. Essential reading for productivity. #books #productivity",
+    "timestamp": "2024-01-15T21:00:00Z",
+    "user_id": "productivity_reader",
+    "media": [{"type": "image", "url": "deep_work_book.jpg"}],
+    "engagement_score": 0.84
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_038",
+    "raw_text": "Homemade bread turned out perfect! From scratch and it's delicious. #baking #bread #homemade",
+    "timestamp": "2024-01-15T19:00:00Z",
+    "user_id": "home_baker",
+    "media": [{"type": "image", "url": "homemade_bread.jpg"}],
+    "engagement_score": 0.90
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_039",
+    "raw_text": "This new app is amazing! Completely changed how I organize my life. #productivity #apps",
+    "timestamp": "2024-01-15T12:30:00Z",
+    "user_id": "app_enthusiast",
+    "media": [{"type": "image", "url": "app_screenshot.jpg"}],
+    "engagement_score": 0.77
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_040",
+    "raw_text": "Traffic was horrible today. Took 2 hours to get home. This city needs better infrastructure.",
+    "timestamp": "2024-01-15T17:30:00Z",
+    "user_id": "commuter_frustrated",
+    "media": [],
+    "engagement_score": 0.26
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_041",
+    "raw_text": "Hiking adventure today! The views were absolutely breathtaking. #hiking #adventure #nature",
+    "timestamp": "2024-01-15T16:00:00Z",
+    "user_id": "hiking_enthusiast",
+    "media": [{"type": "image", "url": "hiking_views.jpg"}],
+    "engagement_score": 0.92
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_042",
+    "raw_text": "This new movie is incredible! Best film I've seen this year. #movies #cinema",
+    "timestamp": "2024-01-15T23:00:00Z",
+    "user_id": "movie_lover",
+    "media": [{"type": "image", "url": "movie_poster.jpg"}],
+    "engagement_score": 0.85
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_043",
+    "raw_text": "New workout routine is paying off! Feeling stronger every day. #fitness #gym",
+    "timestamp": "2024-01-15T08:00:00Z",
+    "user_id": "fitness_progress_2",
+    "media": [{"type": "image", "url": "workout_progress.jpg"}],
+    "engagement_score": 0.87
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_044",
+    "raw_text": "This new restaurant is terrible. Worst dining experience ever. Avoid at all costs!",
+    "timestamp": "2024-01-15T20:00:00Z",
+    "user_id": "restaurant_critic_harsh",
+    "media": [],
+    "engagement_score": 0.24
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_045",
+    "raw_text": "Beautiful day for a picnic! Perfect weather and great company. #picnic #outdoors",
+    "timestamp": "2024-01-15T14:30:00Z",
+    "user_id": "picnic_enthusiast",
+    "media": [{"type": "image", "url": "picnic_setup.jpg"}],
+    "engagement_score": 0.89
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_046",
+    "raw_text": "New book is incredible! Couldn't put it down. Highly recommend! #books #reading",
+    "timestamp": "2024-01-15T22:00:00Z",
+    "user_id": "book_enthusiast",
+    "media": [{"type": "image", "url": "book_cover.jpg"}],
+    "engagement_score": 0.81
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_047",
+    "raw_text": "Studio session today was amazing! New track is coming together perfectly. #music #studio",
+    "timestamp": "2024-01-15T15:00:00Z",
+    "user_id": "music_creator",
+    "media": [{"type": "image", "url": "studio_work.jpg"}],
+    "engagement_score": 0.86
+  },
+  {
+    "platform": "facebook",
+    "post_id": "large_048",
+    "raw_text": "This new app is terrible. Crashes constantly and the interface is confusing.",
+    "timestamp": "2024-01-15T11:30:00Z",
+    "user_id": "app_critic_2",
+    "media": [],
+    "engagement_score": 0.27
+  },
+  {
+    "platform": "twitter",
+    "post_id": "large_049",
+    "raw_text": "Travel planning for Europe! Can't wait to explore Paris, Rome, and Barcelona. #travel #europe",
+    "timestamp": "2024-01-15T10:00:00Z",
+    "user_id": "europe_traveler",
+    "media": [{"type": "image", "url": "europe_map.jpg"}],
+    "engagement_score": 0.91
+  },
+  {
+    "platform": "instagram",
+    "post_id": "large_050",
+    "raw_text": "Morning meditation session was perfect. Feeling calm and focused. #meditation #mindfulness",
+    "timestamp": "2024-01-15T06:30:00Z",
+    "user_id": "meditation_lover",
+    "media": [{"type": "image", "url": "meditation_space.jpg"}],
+    "engagement_score": 0.83
+  }
+] 

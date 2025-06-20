@@ -1,0 +1,75 @@
+[
+  {
+    "platform": "twitter",
+    "post_id": "tweet_001",
+    "raw_text": "Just launched our new AI-powered social media analytics tool! 🚀 Excited to see how it helps businesses understand their audience better. #AI #Analytics #SocialMedia",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "user_id": "techstartup_ceo",
+    "media": [
+      {
+        "type": "image",
+        "url": "product_launch.jpg",
+        "filename": "ai_analytics_dashboard.png"
+      }
+    ],
+    "retweet_count": 45,
+    "like_count": 234,
+    "reply_count": 12
+  },
+  {
+    "platform": "twitter",
+    "post_id": "tweet_002",
+    "raw_text": "This new restaurant downtown is absolutely terrible. Overpriced food, terrible service, and the atmosphere is awful. Save your money and go somewhere else! 😤",
+    "timestamp": "2024-01-15T19:45:00Z",
+    "user_id": "food_critic_123",
+    "media": [],
+    "retweet_count": 8,
+    "like_count": 67,
+    "reply_count": 23
+  },
+  {
+    "platform": "twitter",
+    "post_id": "tweet_003",
+    "raw_text": "Beautiful sunset at the beach today! Nature never fails to amaze me. 🌅 #sunset #beach #nature #photography",
+    "timestamp": "2024-01-15T18:20:00Z",
+    "user_id": "nature_lover",
+    "media": [
+      {
+        "type": "image",
+        "url": "sunset_beach.jpg",
+        "filename": "beautiful_sunset.png"
+      }
+    ],
+    "retweet_count": 156,
+    "like_count": 892,
+    "reply_count": 34
+  },
+  {
+    "platform": "twitter",
+    "post_id": "tweet_004",
+    "raw_text": "Just finished reading 'The Psychology of Money' by Morgan Housel. Highly recommend! Great insights on how people think about money and wealth. 📚 #finance #books",
+    "timestamp": "2024-01-15T22:15:00Z",
+    "user_id": "finance_geek",
+    "media": [
+      {
+        "type": "image",
+        "url": "book_cover.jpg",
+        "filename": "psychology_of_money.png"
+      }
+    ],
+    "retweet_count": 23,
+    "like_count": 145,
+    "reply_count": 8
+  },
+  {
+    "platform": "twitter",
+    "post_id": "tweet_005",
+    "raw_text": "Traffic is absolutely horrible today. Been stuck for 2 hours and still not home. This city needs better public transportation! 😡 #traffic #commute",
+    "timestamp": "2024-01-15T17:30:00Z",
+    "user_id": "commuter_problems",
+    "media": [],
+    "retweet_count": 12,
+    "like_count": 89,
+    "reply_count": 45
+  }
+] 
