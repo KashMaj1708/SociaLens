@@ -2,7 +2,7 @@
 
 A Full-Stack Platform to Clean, Analyze, and Export Multimodal Social Media Data
 
-## 🚀 Features
+## Features
 
 - **Data Ingestion**: Upload JSON, CSV, or ZIP files with images/videos from social platforms
 - **Data Cleaning**: Automated text cleaning, emoji removal, URL cleanup, language detection
@@ -11,7 +11,7 @@ A Full-Stack Platform to Clean, Analyze, and Export Multimodal Social Media Data
 - **Export Capabilities**: Download cleaned data in CSV/JSON formats
 - **Annotation Mode**: Manual tagging and sentiment editing
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React (with Vite)
@@ -32,7 +32,7 @@ A Full-Stack Platform to Clean, Analyze, and Export Multimodal Social Media Data
 - OpenCV (image preprocessing)
 - langdetect (language detection)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 /socialens
@@ -48,7 +48,7 @@ A Full-Stack Platform to Clean, Analyze, and Export Multimodal Social Media Data
 └── docker-compose.yml
 ```
 
-## 🚀 Quick Start with Docker
+##  Quick Start with Docker
 
 ### Prerequisites
 - Docker and Docker Compose installed
@@ -80,7 +80,7 @@ docker-compose -f docker-compose.dev.yml logs -f
 docker-compose -f docker-compose.dev.yml down
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -121,17 +121,17 @@ npm run dev
 - Backend API: http://localhost:8000
 - API Docs: http://localhost:8000/docs
 
-## 📊 Sample Data
+##  Sample Data
 
 The platform includes sample datasets for testing:
 - 10 tweets with images
 - 5 Instagram posts with multiple images
 - 3 YouTube-style metadata records
 
-## 🔧 Configuration
+##  Configuration
 
 Environment variables are configured in `.env` files for both frontend and backend.
 
-## 📝 License
+##  License
 
 MIT License
